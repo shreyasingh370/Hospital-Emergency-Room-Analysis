@@ -17,3 +17,6 @@ The most common age group is adult (25.01%), followed by teenager (8.4%) and mid
 The most common year for visits is 2020 (28.83%), followed by 2019 (26.09%) and 2018 (24.63%).
 
 The gender distribution is almost even, with male patients slightly outnumbering female patients (51.5% vs 48.2%).
+
+
+## By- Shreya Kumari(Data Analyst)
